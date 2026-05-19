@@ -1,4 +1,4 @@
-# Task 2 – S3 to Slack Notification System
+# S3 to Slack Notification System
 
 ### Objective
 Design an AWS event-driven workflow where uploading a new file to an **S3 bucket** triggers an **AWS Lambda function** that sends a message to a **Slack channel**.
